@@ -1,0 +1,15 @@
+Enero
+1
+100
+Enero
+2
+1000
+Febrero
+1
+400
+Marzo
+3
+8000
+Diciembre
+0
+20000
